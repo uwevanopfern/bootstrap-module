@@ -1,0 +1,13 @@
+{
+    "name": "Bootstrap",
+    "alias": "bootstrap",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Bootstrap\\Providers\\BootstrapServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
