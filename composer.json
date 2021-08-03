@@ -1,7 +1,8 @@
 {
     "name": "uwevanopfern/bootstrap-module",
-    "description": "",
+    "description": "Dynamic module",
     "type": "laravel-module",
+    "license": "MIT",
     "authors": [
         {
             "name": "Uwe Aime Van",
