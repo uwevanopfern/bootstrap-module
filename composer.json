@@ -1,11 +1,11 @@
 {
-    "name": "nwidart/bootstrap",
+    "name": "uwevanopfern/bootstrap",
     "description": "",
     "type": "laravel-module",
     "authors": [
         {
-            "name": "Nicolas Widart",
-            "email": "n.widart@gmail.com"
+            "name": "Uwe Aime Van",
+            "email": "uweaime@gmail.com"
         }
     ],
     "extra": {
